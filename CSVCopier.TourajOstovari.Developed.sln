@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVCopier.TourajOstovari.Developed", "CSVCopier.TourajOstovari.Developed\CSVCopier.TourajOstovari.Developed.csproj", "{D23C60FE-9134-4A26-A34A-9F12A4D34DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetFilesAddress", "GetFilesAddress\GetFilesAddress.csproj", "{19BD8926-C127-42B0-A760-29C145FA81AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23C60FE-9134-4A26-A34A-9F12A4D34DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23C60FE-9134-4A26-A34A-9F12A4D34DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23C60FE-9134-4A26-A34A-9F12A4D34DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23C60FE-9134-4A26-A34A-9F12A4D34DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19BD8926-C127-42B0-A760-29C145FA81AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BD8926-C127-42B0-A760-29C145FA81AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BD8926-C127-42B0-A760-29C145FA81AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BD8926-C127-42B0-A760-29C145FA81AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26D88F36-19FE-477A-8765-AC3EEB4CBD7D}
+	EndGlobalSection
+EndGlobal
